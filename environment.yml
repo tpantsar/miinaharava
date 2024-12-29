@@ -1,0 +1,6 @@
+name: miinaharava
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pyglet
